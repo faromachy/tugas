@@ -1,0 +1,27 @@
+body{
+    margin-left: 375px;
+}
+.box1{
+    padding: 75px 75px 75px;
+    padding-left: 60px;
+    color: fff;
+    margin: 20px;
+    margin-top: 200px;
+    background: rgb(57, 57, 211);
+    border: 2px solid black;
+}
+.box2{
+    padding: 75px 75px 75px;
+    padding-left: 60px;
+    color: fff;
+    margin: 20px 200px;
+    margin-top: 200px;
+    background: rgb(252, 31, 186);
+    border: 2px solid black;
+}
+.box1:hover{
+    background: rgb(17, 245, 17);
+}
+.box2:hover{
+    background:rgb(17, 245, 17);
+}

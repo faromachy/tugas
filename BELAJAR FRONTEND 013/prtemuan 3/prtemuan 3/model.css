@@ -1,0 +1,40 @@
+.kotak {
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    border: 2px solid #333;
+    margin: 10px;
+    border-radius: 200px;
+}
+.blok {
+    display: block;
+    /* background-color: red; */
+}
+.inline {
+    display: inline;
+}
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    margin: 10px;
+    padding: 30px;
+}
+.relatif {
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+.absolut {
+    position: absolute;
+    top: 50px;
+    right: 900px;
+}
+.kiri {
+    float: left;
+    /* background-color: blue; */
+}
+.kanan {
+    float: right;
+    /* background-color: aqua; */
+}

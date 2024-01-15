@@ -1,0 +1,65 @@
+.container {
+    display: grid;
+    grid-template-rows: 280px 100px;
+    width: 300px;
+    border: 3px solid black;
+    background: black;
+    margin-left: 525px;
+    margin-top: 100px;
+    border-radius: 50px;      
+    box-shadow: 0 0 2px 2px blue;      
+}
+.foto {
+    margin-top: 28px;
+    margin-left: 10px;
+}
+img {
+    border-radius: 50px;
+}
+.kata {
+    font-size: 18px;
+    margin-left: 20px;
+    font-style: oblique;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+}
+.kata2 {
+    color: white;
+    width: 80px;
+    margin-top: -72px;
+    margin-left: 20px;
+}
+.kata3 {
+    background: aqua;
+    color: teal;
+    margin-top: -45px;
+    width: 80px;
+    height: 15px;
+    font-size: 13px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 100px;
+}
+.kata4 {
+    writing-mode: vertical-lr;
+    color: white;
+    margin-top: -330px; 
+    margin-left: 240px;
+}
+.play {
+    background-color: blueviolet;
+    text-align: center;
+    width: 100px;
+    height: 35px;
+    margin-left: 178px;
+    margin-top: -65px;
+    border-radius: 10px;
+}
+p {
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 13px;
+    margin-left: 3px;
+}

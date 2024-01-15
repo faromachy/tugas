@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(10, 238, 10);
+}
+.container{
+    background-color:yellow;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px;
+}
+.blue-text{
+    color:red;
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bold-text{
+    color:black;
+}
+
+

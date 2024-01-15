@@ -1,0 +1,216 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    display: grid;
+    grid-template-columns: repeat(4, lfr);
+    grid-template-rows: 20px 100px;
+    grid-template-areas: "A A A A" "B C D L" "E F G L" "H I J M" "K N N M" ;
+    row-gap: 100px;
+    width: 400px;
+    border: 6px solid black;
+    margin-left: 480px;
+    background-position : center;
+    background-size: 100%;
+}
+.A {
+    grid-area: A;
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 30px 20px 50px 20px;
+    margin: 30px 10px 10px 10px;
+    font-size: 20px;
+    border-radius: 20px;
+    border: 3px solid black;
+    background:green;
+}
+.B {
+    grid-area: B;
+    background: white;
+    background-image: url(agam.jpg);
+    background-position-x: -50px;
+    background-size: 300px;
+    color: black;
+    text-align: center;
+    padding: 31px 1px 1px 1px;
+    margin: 10px 10px 10px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.C {
+    grid-area: C;
+    background: white;
+    background-image: url(agam.jpg);
+    background-position-x: -200px;
+    background: position y -88px; ;
+    background-size: 300px;
+    color: black;
+    text-align: center;
+    padding: 31px 1px 1px 1px;
+    margin: 10px 10px 10px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.D {
+    grid-area: D;
+    background: white;
+    color: black;
+    text-align: center;
+    padding: 31px 1px 1px 1px;
+    margin: 10px 10px 10px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.E {
+    grid-area: E;
+    background: white;
+    color: black;
+    text-align: center;
+    padding: 31px 1px 32px 1px;
+    margin: 10px 10px 28px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.F {
+    grid-area: F;
+    background: white;
+    color: black;
+    text-align: center;
+    padding: 31px 1px 32px 1px;
+    margin: 10px 10px 28px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.G {
+    grid-area: G;
+    background: white;
+    color: black;
+    text-align: center;
+    padding: 31px 1px 32px 1px;
+    margin: 10px 10px 28px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.H {
+    grid-area: H;
+    background: white;
+    color: black;
+    text-align: center;
+    padding: 31px 1px 32px 1px;
+    margin: 10px 10px 40px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.I {
+    grid-area: I;
+    background: white;
+    color: black;
+    text-align: center;
+    padding: 31px 1px 32px 1px;
+    margin: 10px 10px 40px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.J {
+    grid-area: J;
+    background: white;
+    color: black;
+    text-align: center;
+    padding: 31px 1px 32px 1px;
+    margin: 10px 10px 40px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.K {
+    grid-area: K;
+    background: white;
+    color: black;
+    text-align: center;
+    padding: 31px 1px 32px 1px;
+    margin: 10px 10px 50px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.L {
+    grid-area: L;
+    background: white;
+    color: black;
+    text-align: center;
+    padding: 31px 1px 32px 1px;
+    margin: 10px 10px 28px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.M {
+    grid-area: M;
+    background: white;
+    color: black;
+    text-align: center;
+    padding: 31px 1px 32px 1px;
+    margin: 10px 10px 50px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.N {
+    grid-area: N;
+    background: white;
+    color: black;
+    text-align: center;
+    padding: 31px 1px 32px 1px;
+    margin: 10px 10px 50px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.B:hover {
+    background:green;
+    color: black;
+}
+.C:hover {
+    background: green;
+    color: black;
+}
+.D:hover {
+    background: green;
+    color: black;
+}
+.E:hover {
+    background: green;
+    color: black;
+}
+.F:hover {
+    background: green;
+    color: black;
+}
+.G:hover {
+    background: green;
+    color: black;
+}
+.H:hover {
+    background: green;
+    color: black; 
+}
+.I:hover {
+    background: green;
+    color: black;
+}
+.J:hover {
+    background: green;
+    color: black;
+}
+.K:hover {
+    background: green;
+    color: black;
+}
+.L:hover {
+    background: green;
+    color: black;
+}
+.M:hover {
+    background: green;
+    color: black;
+}
+.N:hover {
+    background: green;
+    color: black;
+}

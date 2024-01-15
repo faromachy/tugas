@@ -1,0 +1,25 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(10, lfr);
+    grid-template-rows: 70px 100px;
+    grid-template-areas: "A A A" "B C D";
+    column-gap: 10px;
+    row-gap: 10px;
+    width: 400px;
+}
+.A {
+    grid-area: A;
+    background: red;
+}
+.B {
+    grid-area: B;
+    background: green;
+}
+.C {
+    grid-area: C;
+    background: blue;
+}
+.D {
+    grid-area: D;
+    background: yellow;
+}

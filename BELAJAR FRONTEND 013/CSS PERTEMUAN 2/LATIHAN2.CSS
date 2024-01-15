@@ -1,0 +1,125 @@
+*{
+    border: red 1px;
+}
+.helo{
+    margin-left: 150px;
+}
+.kotak1{
+    height: 50px;
+    padding: 50px;
+    padding-left: 50px;
+    width: 50px;
+    color: yellow;
+    margin: 50px;
+    margin-left: 50px;
+    background:yellow;
+    border: 2px solid black;
+}
+.kotak2{
+    height: 50px;
+    padding: 50px;
+    padding-left: 50px;
+    width: 50px;
+    color: yellow;
+    margin: 50px;
+    margin-left: 250px;
+    margin-top: -205px;
+    background:green;
+    border: 2px solid black;
+}
+.kotak3{
+    height: 50px;
+    padding: 50px;
+    padding-left: 50px;
+    width: 50px;
+    color: yellow;
+    margin: 50px;
+    margin-left: 450px;
+    margin-top: -205px;
+    background:red;
+    border: 2px solid black;
+}
+.kotak4{
+    height: 50px;
+    padding: 50px;
+    padding-left: 50px;
+    width: 50px;
+    color: yellow;
+    margin: 50px;
+    margin-left: 650px;
+    margin-top: -205px;
+    background:green;
+    border: 2px solid black;
+}
+.kotak5{
+    height: 50px;
+    padding: 50px;
+    padding-left: 50px;
+    width: 50px;
+    color: yellow;
+    margin: 50px;
+    margin-left: 850px;
+    margin-top: -205px;
+    background:yellow;
+    border: 2px solid black;
+}
+.kotak6{
+    height: 50px;
+    padding: 50px;
+    padding-left: 50px;
+    width: 50px;
+    color: yellow;
+    margin: 50px;
+    margin-left: 450px;
+    margin-top: -10px;
+    background:blue;
+    border: 2px solid black;
+}
+.kotak7{
+    height: 50px;
+    padding: 50px;
+    padding-left: 50px;
+    width: 50px;
+    color: yellow;
+    margin: 50px;
+    margin-left: 50px;
+    margin-top: -10px;
+    background:yellow;
+    border: 2px solid black;
+}
+.kotak8{
+    height: 50px;
+    padding: 50px;
+    padding-left: 50px;
+    width: 50px;
+    color: yellow;
+    margin: 50px;
+    margin-left: 580px;
+    margin-top: -205px;
+    background:yellow;
+    border: 2px solid black;
+}
+.kotak9{
+    height: 50px;
+    padding: 50px;
+    padding-left: 50px;
+    width: 50px;
+    color: yellow;
+    margin: 50px;
+    margin-left: 320px;
+    margin-top: -205px;
+    background:yellow;
+    border: 2px solid black;
+}
+.kotak10{
+    height: 50px;
+    padding: 50px;
+    padding-left: 50px;
+    width: 50px;
+    color: yellow;
+    margin: 50px;
+    margin-left: 850px;
+    margin-top: -202px;
+    background:yellow;
+    border: 2px solid black;
+}
